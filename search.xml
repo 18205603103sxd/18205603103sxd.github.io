@@ -8,7 +8,7 @@
       <link href="/posts/52116/"/>
       <url>/posts/52116/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h3 id="字体和文本样式"><a href="#字体和文本样式" class="headerlink" title="字体和文本样式"></a>字体和文本样式</h3><h4 id="1-1-字体大小"><a href="#1-1-字体大小" class="headerlink" title="1.1 字体大小"></a>1.1 字体大小</h4><ul><li>属性名：font-size</li><li>取值：数字+px</li></ul><h4 id="1-2-字体粗细"><a href="#1-2-字体粗细" class="headerlink" title="1.2 字体粗细"></a>1.2 字体粗细</h4><ul><li>属性名：font-weight</li><li>取值：<ol><li>关键字：normal(正常)；bold(加粗)</li><li>纯数字：400(正常)；900(加粗)</li></ol></li></ul><h4 id="1-3-字体和文本样式"><a href="#1-3-字体和文本样式" class="headerlink" title="1.3 字体和文本样式"></a>1.3 字体和文本样式</h4><ul><li>属性名：font-style</li><li>取值：normal(正常)；italic(倾斜)</li></ul><h4 id="1-4-字体和文本样式"><a href="#1-4-字体和文本样式" class="headerlink" title="1.4 字体和文本样式"></a>1.4 字体和文本样式</h4><ul><li>属性名：font-family</li><li>取值：具体字体；字体系列</li></ul><h4 id="1-5-字体font相关属性连写"><a href="#1-5-字体font相关属性连写" class="headerlink" title="1.5 字体font相关属性连写"></a>1.5 字体font相关属性连写</h4><ul><li>属性名：font(复合属性)</li><li>取值：font: style weight size family</li><li>省略要求：只能省略前两个，相当于设置了默认值</li><li>注意点：</li></ul>]]></content>
       
       
       <categories>
